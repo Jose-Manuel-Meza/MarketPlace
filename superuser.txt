@@ -1,0 +1,7 @@
+user: manuelmeza
+pass: 10manuel86
+email: manu@loop.mx
+
+user: rolando
+pass: 10rolito17
+email: rol@loop.mx
