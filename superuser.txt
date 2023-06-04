@@ -5,3 +5,29 @@ email: manu@loop.mx
 user: rolando
 pass: 10rolito17
 email: rol@loop.mx
+
+{
+  "first_name": "bob",
+  "last_name": "Ross",
+  "email": "bob@loop.mx",
+  "password": "pintura",
+  "phone_number": "22334455"
+}
+
+{
+  "email": "bob@loop.mx",
+  "password": "pintura"
+}
+
+{
+  "first_name": "Sergio",
+  "last_name": "Pérez",
+  "email": "checo@loop.mx",
+  "password": "pintura",
+  "phone_number": "+522233445566"
+}
+
+{
+  "email": "checo@loop.mx",
+  "password": "pintura"
+}
